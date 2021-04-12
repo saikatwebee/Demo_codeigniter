@@ -1,0 +1,25 @@
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff !important;
+}
+.custom-nav .custom-nav-item a {
+  color: #fff !important;
+}
+.nav-heading-item a {
+  color: #fff !important;
+}
+.nav-heading-item #logout:hover {
+  background-color: #dc3545;
+  border: solid 1px #dc3545;
+  border-radius: 10px;
+}
+.custom-nav-item:hover {
+  background-color: #dc3545;
+  border: solid 1px #dc3545;
+  border-radius: 10px;
+}
+.navbar-text{
+        font-size: 12px;
+    }
