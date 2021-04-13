@@ -74,7 +74,7 @@ class Register extends CI_Controller
     public function check_mail(){
 
         if(!empty($this->input->post('checkmail'))){
-                    //var_dump($this->input->post('checkmail'));
+    
                     $data=[];
 
                     $email=$this->input->post('checkmail');
